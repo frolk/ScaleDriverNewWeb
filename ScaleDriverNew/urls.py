@@ -18,6 +18,7 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    ivan123
     url(r'^ivan/', include())
     123567891
 ]
